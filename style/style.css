@@ -1,0 +1,11 @@
+#finished:hover{
+    background-color: red;
+}
+.banner{
+    background-image: url(../Image/978033-mansion-house-architecture-luxury-building-design.jpg);
+    padding:75px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top:25px;
+    margin-bottom:25px ;
+}
